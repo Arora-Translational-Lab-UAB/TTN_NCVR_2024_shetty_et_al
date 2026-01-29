@@ -37,7 +37,7 @@ The repository is structured to reflect the UK Biobank analysis workflow:
 ## 🚀 Getting Started
 
 ### Prerequisites
-* **Language:** R (Version 4.x)
+* **Language:** R (Version 4.x), SAS
 * **Key Packages:** `survival`, `tidyverse`, `rms`, `data.table`, `ggplot2`
 
 ### Data Access
